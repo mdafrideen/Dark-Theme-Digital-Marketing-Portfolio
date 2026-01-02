@@ -7,7 +7,7 @@ const services = [{
   desc: "Boost your website's visibility and organic traffic with proven on-page and off-page SEO strategies."
 }, {
   icon: Share2,
-  title: 'Social Media Management',
+  title: 'Social Media Marketing',
   desc: 'Build and engage your audience across all major social platforms with consistent, high-quality content.'
 }, {
   icon: Megaphone,

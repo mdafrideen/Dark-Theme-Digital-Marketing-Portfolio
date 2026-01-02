@@ -4,7 +4,7 @@ import { Hero } from '../components/Hero';
 import { About } from '../components/About';
 import { Services } from '../components/Services';
 import { Education } from '../components/Education';
-import { Projects } from '../components/Projects';
+// import { Projects } from '../components/Projects';
 import { Contact } from '../components/Contact';
 export function Portfolio() {
   return <div className="bg-gradient-animate min-h-screen text-slate-light selection:bg-neon-red selection:text-white relative">
@@ -18,12 +18,12 @@ export function Portfolio() {
         <About />
         <Services />
         <Education />
-        <Projects />
+        {/* <Projects /> */}
         <Contact />
       </main>
 
       <footer className="glass border-t border-white/5 py-8 text-center text-slate-dim text-sm mt-12">
-        <p>Designed & Built by Alex Morgan</p>
+        <p>Designed & Built by Gowsalya</p>
         <p className="mt-2 text-xs opacity-60">
           &copy; {new Date().getFullYear()} All rights reserved.
         </p>
