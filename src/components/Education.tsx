@@ -20,7 +20,7 @@ const education = [
   {
     type: 'cert',
     title: 'Digital Marketing Certification',
-    institution: 'Online Training Program',
+    institution: 'Offline Training Program',
     year: '2025',
     desc: 'Hands-on training in SEO, social media marketing, Google Ads, and analytics.'
   }
