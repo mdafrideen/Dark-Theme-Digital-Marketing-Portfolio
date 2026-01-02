@@ -9,7 +9,7 @@ const skills = [
   'Meta Ads',
   'Content Marketing',
   'Email Marketing',
-  'Social Media Management',
+  // 'Social Media Management',
   // 'Influencer Marketing',
   // 'Google Analytics'
 ];
