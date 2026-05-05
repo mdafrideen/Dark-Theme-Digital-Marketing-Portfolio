@@ -6,7 +6,7 @@ import { Download, ArrowRight, Sparkles } from 'lucide-react';
 import profileImg from '../imges/Untitled (21).png';
 
 // ✅ IMPORT RESUME PDF
-import resumePdf from '../imges/Gowsalya_Resume.pdf';
+import resumePdf from '../imges/Gowsalya S_Digital Marketing_CV_Pdf-1 (1).pdf';
 
 export function Hero() {
   return (
